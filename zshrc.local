@@ -1,0 +1,7 @@
+alias gcm='git commit -m'
+alias gaa='git add -A'
+alias cdaa='cd; cd AppAcademy'
+alias gp='git push'
+export PATH=$PATH:/Applications/Postgres.app/Contents/Versions/latest/bin
+export PATH=/usr/local/bin:$PATH
+if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi

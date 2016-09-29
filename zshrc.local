@@ -1,3 +1,6 @@
+alias gb='git branch'
+alias gc='git checkout'
+alias c='clear'
 alias gcm='git commit -m'
 alias gaa='git add -A'
 alias cdaa='cd; cd AppAcademy'
